@@ -94,3 +94,8 @@ body{
     font-size: 14px;
     color: #151b29;
 }
+.page { width:210mn;
+       min-height:297mn;
+       background: white;
+       display: flex;}
+       
