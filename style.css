@@ -95,7 +95,8 @@ body{
     color: #151b29;
 }
 .page { width:210mn;
-       min-height:297mn;
+       min-height:350mn;
        background: white;
-       display: flex;}
+       display: flex;
+       margin: 20px auto;}
        
